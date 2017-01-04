@@ -1,0 +1,73 @@
+@font-face {
+  src:url("../fonts/bkobiii.ttf");
+  font-family: kobi;
+}
+body{
+  overflow-x: hidden;
+}
+nav{
+  background-color: blue;
+  height:40px;
+}
+#bgnav0{
+background-color: grey !important;
+}
+#bgnav1{
+background-color: black !important;
+}
+#bgnav2{
+background-color: green !important;
+}
+#bgfooter0{
+  background-color: grey !important;
+}
+#bgfooter1{
+  background-color: black !important;
+}
+#bgfooter2{
+  background-color: green !important;
+}
+#bgpres0{
+  background-color: grey !important;
+}
+#bgpres1{
+  background-color: black !important;
+}
+#bgpres2{
+  background-color: green !important;
+}
+.head{
+  height:20%;
+}
+.tete{
+  height:100%;
+  width: 100%;
+}
+#marge{
+
+  padding-left: 0 !important;
+ padding-right: 0 !important;
+}
+.footer{
+  background-color:  grey;
+  height:20%;
+  padding: 5%;
+}
+.pres{
+  margin-left:-15px;
+  margin-bottom: 0;
+  text-align: left;
+  justify-content: center;
+  font-family: kobi;
+background-size: cover;
+  font-size: 20px;
+  background-color: rgb(159,166,178);
+}
+.navbar
+{
+  border-radius:0;
+  margin-bottom:0;
+}
+.photo{
+
+}
